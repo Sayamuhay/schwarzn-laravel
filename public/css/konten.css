@@ -1,0 +1,43 @@
+@media only screen and (min-width: 1024px)
+.r-homepage-row-container section article {
+    margin-top: 60px;
+}
+.r-homepage-row-container section article {
+    margin-top: 40px;
+}
+@media only screen and (min-width: 1024px)
+.r-ups {
+    max-width: 190rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 60px;
+}
+.r-ups {
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+abbr, address, article, aside, audio, b, blockquote, body, canvas, caption, cite, code, dd, del, details, dfn, div, dl, dt, em, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, input, ins, kbd, label, legend, li, mark, menu, nav, object, ol, p, pre, q, samp, section, select, small, span, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, ul, var, video {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: 0 0;
+}
+*, :after, :before {
+    box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    -webkit-box-sizing: inherit;
+}
+.article {
+display:block;
+}
+.r-ups .r-2ups-titles-on .r-2ups-description {
+    position: relative;
+    text-align: center;
+}

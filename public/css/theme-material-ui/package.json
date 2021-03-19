@@ -1,0 +1,55 @@
+{
+  "_from": "@sweetalert2/theme-material-ui",
+  "_id": "@sweetalert2/theme-material-ui@4.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-UAM6DUHbNtvZ/cR6v+4BMj43+TvGNvPHTRrAjh60up1gaH/RHZCoc2jkI4jgLx7X1Nvd3v5gej5iEwp70m23yA==",
+  "_location": "/@sweetalert2/theme-material-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@sweetalert2/theme-material-ui",
+    "name": "@sweetalert2/theme-material-ui",
+    "escapedName": "@sweetalert2%2ftheme-material-ui",
+    "scope": "@sweetalert2",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@sweetalert2/theme-material-ui/-/theme-material-ui-4.0.1.tgz",
+  "_shasum": "677fca6a2c3e0c42b8617289351918b37c225dde",
+  "_spec": "@sweetalert2/theme-material-ui",
+  "_where": "C:\\Users\\schwarznberg",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/sweetalert2/sweetalert2-themes/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Material Ui theme for SweetAlert2",
+  "files": [
+    "*.css",
+    "*.scss"
+  ],
+  "homepage": "https://sweetalert2.github.io/",
+  "keywords": [
+    "sweetalert2",
+    "material-ui",
+    "theme",
+    "themes",
+    "theming",
+    "sass"
+  ],
+  "license": "MIT",
+  "main": "material-ui.css",
+  "name": "@sweetalert2/theme-material-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweetalert2/sweetalert2-themes.git"
+  },
+  "version": "4.0.1"
+}
